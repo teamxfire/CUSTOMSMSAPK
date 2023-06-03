@@ -70,7 +70,7 @@
 
  ## Download  
 
- <a href="https://github.com/teamxfire/TXF-URL-SHORTNER/raw/main/TXF%20URL%20SHORTNER.apk">DOWNLOAD NOW</a> 
+ <a href="(https://github.com/teamxfire/CUSTOMSMSAPK/raw/main/TXF%20CUSTOM%20BOMBER_.apk)">DOWNLOAD NOW</a> 
 
  
 
