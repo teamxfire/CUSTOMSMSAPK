@@ -1,7 +1,6 @@
 # CUSTOMSMSAPK
 
-  TXF URL SHORTNER is an app that allows you to shorten any custom URL. We are the first in Bangladesh to make such an app and provide it for free.
-
+  TXF CUSTOM SMS SENDER BD ROBI/AIRTEL WORKING
    
  ![Logo](1685785326411_100.PNG)
  ![Logo](1685785316629_100.PNG)
@@ -46,9 +45,10 @@
 
  Features:  
 
- - 1) Totally free
+ - 1)  free for 7 days
 
- - 2) Custom Domain
+ - 2) FULLY CUSTOM
+
 
   
 
@@ -62,7 +62,7 @@
 
   
 
- For support <a href="https://t.me/CyberExpertMamun">(Telegram)</a>
+ For support <a href="https://t.me/v3rsionx">(Telegram)</a>
 
   
 
