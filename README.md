@@ -74,7 +74,7 @@
 
  ## Download  
 
- <a href="(https://github.com/teamxfire/CUSTOMSMSAPK/raw/main/TXF%20CUSTOM%20BOMBER_.apk)">DOWNLOAD NOW</a> 
+ <a href="https://github.com/teamxfire/CUSTOMSMSAPK/raw/main/TXF%20CUSTOM%20BOMBER_.apk">DOWNLOAD NOW</a> 
 
  
 
