@@ -3,10 +3,11 @@
   TXF URL SHORTNER is an app that allows you to shorten any custom URL. We are the first in Bangladesh to make such an app and provide it for free.
 
    
-
+ ![Logo](1685785326411_100.PNG)
+ ![Logo](1685785316629_100.PNG)
  ![Logo](1685785451698_100.PNG) 
 
- ![Logo](1685785326411_100.PNG) 
+ 
   
 
   
