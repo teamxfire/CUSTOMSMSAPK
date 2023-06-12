@@ -30,6 +30,7 @@ PRICE
 
 BUY PACKAGE FOR CONTACT 
  <a href="https://www.facebook.com/team.x.fire.official">FACEBOOK PAGE</a> 
+ <a href="https://www.facebook.com/CALL.ME.VERSION.X">DEVELOPER</a> 
 
  ## Download  
 
