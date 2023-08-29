@@ -25,4 +25,4 @@ ANY PROBLEM FOR CONTACT
 
  ## Download  
 
- <a href="https://github.com/teamxfire/CUSTOMSMSAPK/blob/main/FREE%20SMS_1.4.apk">DOWNLOAD NOW</a> 
+ <a href="https://github.com/teamxfire/CUSTOMSMSAPK/raw/main/FREE%20SMS_1.4.apk">DOWNLOAD NOW</a> 
