@@ -2,8 +2,8 @@
 
   TXF CUSTOM SMS SENDER BD ROBI/AIRTEL WORKING
    
- ![Logo](1686262010994_100.PNG)
- ![Logo](IMG_20230609_010804.jpg)
+ ![Logo](photo_2_2023-08-29_17-27-06.jpg)
+ ![Logo](photo_1_2023-08-29_17-27-06.jpg)
 
  [TEAM X FIRE TELEGRAM CHANNEL](https://t.me/team_x_fire) 
  #Developed By
