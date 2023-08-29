@@ -5,7 +5,7 @@
  ![Logo](1686262010994_100.PNG)
  ![Logo](IMG_20230609_010804.jpg)
 
- [TEAM X FIRE TELEGRAM CHANNEL](https://t.me/TXF2022) 
+ [TEAM X FIRE TELEGRAM CHANNEL](https://t.me/team_x_fire) 
  #Developed By
  <a href="https://www.facebook.com/team.x.fire.official">TEAM X FIRE</a> 
 
@@ -15,25 +15,14 @@
 
  Features 
  - 1) FULLY CUSTOM
- - 2) WORKING ROBI/AIRTEL SIM
- - 3) BUY ANY PACKAGES FOR UNLIMITED SMS
- - 4) ANONYMOUS SMS SEND NO BODY TRACK YOU
+ - 2) WORKING ALL SIM SIM
+ - 3) ANONYMOUS SMS SEND NO BODY TRACK YOU
 
-PRICE  
+PRICE FREE WITH ADS
 
- - 1)  1 DAY 10 TK
- - 2) 3 DAY 30 TK
- - 3) 7 Day 70 TK
- - 4) 10 DAY 90 TK
- - 5) 15 DAY 180
- - 6) 30 DAY 250 TK
-
-BUY PACKAGE FOR CONTACT 
+ANY PROBLEM FOR CONTACT 
  <a href="https://www.facebook.com/team.x.fire.official">FACEBOOK PAGE</a> 
- -
- BUY PACKAGE FOR CONTACT 
- <a href="https://www.facebook.com/CALL.ME.VERSION.X">DEVELOPER</a> 
 
  ## Download  
 
- <a href="https://github.com/teamxfire/CUSTOMSMSAPK/raw/main/TXF%20CUSTOM%20SMS%20PREMIUM%201.2_sign.apk">DOWNLOAD NOW</a> 
+ <a href="https://github.com/teamxfire/CUSTOMSMSAPK/blob/main/FREE%20SMS_1.4.apk">DOWNLOAD NOW</a> 
